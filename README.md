@@ -4,4 +4,4 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huguds&theme=dark&show_icons=true))
 ![Snake animation](https://github.com/huguds/huguds/blob/output/github-contribution-grid-snake.svg)
 
-![linkedin badge](https://www.linkedin.com/in/victor-hugo-9b4723200)
+![linkedin badge](https://img.shields.io/badge/LinkedIn-victor-hugo-9b4723200?style=for-the-badge&logo=linkedin&logoColor=white)
