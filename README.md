@@ -1,4 +1,4 @@
-## Eai me chamo Victor Hugo, bem-vindo ao meu perfil no GitHub !
+## Hi my name is Victor Hugo, welcome to my profile !👋
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=huguds&theme=dark&show_icons=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huguds&theme=dark&show_icons=true))
