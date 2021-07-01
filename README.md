@@ -4,8 +4,8 @@
 
 ### Perfil:
 - Estudante de Ciências da Computação
--:shipit: Acredito que programar é um Lifestyle
--:seedling: E que é possivel criar algo que ninguém jamais criou só depende de você !
+- :shipit: Pra mim programar é um Lifestyle
+- :seedling: E que é possivel criar algo que ninguém jamais criou só depende de você !
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=huguds&theme=dark&show_icons=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huguds&theme=dark&show_icons=true))
