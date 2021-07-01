@@ -6,7 +6,7 @@
 - :mortar_board: Estudante de Ciências da Computação, Cursando o 5° Semestre.
 - :shipit: Programar é um Lifestyle.
 - :seedling: É possivel criar algo que ninguém jamais criou só depende de você.
-- :computer: Interesses: Java, JavaScript, Kotlin, Flutter, React, Mysql, HTLM e CSS.
+- :computer: Interesses: Java, JavaScript, Kotlin, Flutter, React, Mysql, HTML e CSS.
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=huguds&theme=dark&show_icons=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huguds&theme=dark&show_icons=true))
