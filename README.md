@@ -9,7 +9,6 @@
 
 <a href="mailto:huguuvictor@gmail.com">
         <img src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white&link=mailto:huguuvictor@gmail.com">
-    </a>
 
 * Programming languages and tools :computer:📝:
 
