@@ -8,7 +8,7 @@
 - 🌱 É possivel criar algo que ninguém jamais criou só depende de você.
 - 💻 Interesses: Java, JavaScript, Kotlin, Flutter, React, Mysql, HTML e CSS.
 
-    ![github stats](https://github-readme-stats.vercel.app/api?username=huguds&theme=dark&show_icons=true))
+![github stats](https://github-readme-stats.vercel.app/api?username=huguds&theme=dark&show_icons=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huguds&theme=dark&show_icons=true))
 ![Snake animation](https://github.com/huguds/huguds/blob/output/github-contribution-grid-snake.svg)
 ## Contact 📱
