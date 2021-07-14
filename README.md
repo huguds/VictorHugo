@@ -1,9 +1,16 @@
 ## Hi my name is Victor Hugo, welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
  
-
+<p align="center">
+  <a href="#">
+    <img align="center" width="300" src="https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47e7xryrsz9xyoiomrh8pqbebsnqib6ljdtm5eri8j&rid=giphy.gif&ct=g" />
+  </a>
+  <a href="#">
+    <img align="center" width="450" src="dev.gif" />
+  </a>
+</p>
 
 ### Perfil:
-- :mortar_board: Estudante de Ciências da Computação, Cursando o 5° Semestre.<img src="https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47e7xryrsz9xyoiomrh8pqbebsnqib6ljdtm5eri8j&rid=giphy.gif&ct=g" width="100px"><h3> 
+- :mortar_board: Estudante de Ciências da Computação, Cursando o 5° Semestre.
 - :shipit: Programar é um Lifestyle.
 - 🌱 É possivel criar algo que ninguém jamais criou só depende de você.
 - 💻 Interesses: Java, JavaScript, Kotlin, Flutter, React, Mysql, HTML e CSS.
@@ -25,3 +32,6 @@
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/javascript/javascript-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/kotlin/kotlin-ar21.svg"></code>
 <code><img width="10%" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"></code>
+ 
+ 
+<img src="https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47e7xryrsz9xyoiomrh8pqbebsnqib6ljdtm5eri8j&rid=giphy.gif&ct=g" width="100px"><h3> 
