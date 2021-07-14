@@ -5,7 +5,6 @@
     <img align="center" width="300" src="https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47e7xryrsz9xyoiomrh8pqbebsnqib6ljdtm5eri8j&rid=giphy.gif&ct=g" />
   </a>
   <a href="#">
-    <img align="center" width="450" src="dev.gif" />
   </a>
 </p>
 
