@@ -9,7 +9,7 @@
 </p>
 
 ### Perfil:
-- :mortar_board: Estudante de Ciências da Computação, Cursando o 5° Semestre.
+- :mortar_board: Estudante de Ciência da Computação, Cursando o 5° Semestre.
 - :shipit: Programar é um Lifestyle.
 - 🌱 É possivel criar algo que ninguém jamais criou só depende de você.
 - 💻 Interesses: Java, JavaScript, Kotlin, Flutter, React, Mysql, HTML e CSS.
