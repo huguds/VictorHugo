@@ -1,12 +1,4 @@
 ## Hi there my name is Victor Hugo, welcome to my profile <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
- 
-<p align="center">
-  <a href="#">
-    <img align="right" width="300" height="180"src="https://media1.giphy.com/media/1yk0v6WtCinP5Ptz6G/giphy.gif?cid=ecf05e47e7xryrsz9xyoiomrh8pqbebsnqib6ljdtm5eri8j&rid=giphy.gif&ct=g" />
-  </a>
-  <a href="#">
-  </a>
-</p>
 
 ### Perfil:
 - :mortar_board: Formado em Ciência da Computação.
