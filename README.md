@@ -9,10 +9,9 @@
 </p>
 
 ### Perfil:
-- :mortar_board: Estudante de Ciência da Computação, Cursando o 5° Semestre.
+- :mortar_board: Formado em Ciência da Computação.
 - :shipit: Programar é um Lifestyle.
 - 🌱 É possivel criar algo que ninguém jamais criou só depende de você.
-- 💻 Interesses: Java, JavaScript, TypeScript, CRM, Kotlin, Flutter, React, Mysql, HTML e CSS.
 
    ![github stats](https://github-readme-stats.vercel.app/api?username=huguds&theme=dark&show_icons=true))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huguds&theme=dark&show_icons=true))
